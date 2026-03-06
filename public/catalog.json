@@ -1,0 +1,915 @@
+{
+  "catalog": [
+    {
+      "id": "bellow-covers",
+      "name": "Bellows Covers",
+      "hero": {
+        "title": "BELLOWS COVERS",
+        "body": [
+          "At Signage Products, we manufacture custom-engineered bellows covers designed to meet specific machine geometry, movement, and environmental requirements. Each bellows cover is produced to precise dimensions, ensuring consistent folding, smooth operation, and long service life.",
+          "We work with a wide range of coated and technical fabrics, including PVC-coated polyester, PU-coated materials, and specialized technical fabrics, selected based on application conditions such as abrasion, temperature, and exposure to dust, oil, or moisture.",
+          "From single prototypes to series production, we focus on precision fabrication, material consistency, and application-specific performance."
+        ],
+        "primary_cta": "CONTACT US",
+        "secondary_cta": "APPLICATIONS"
+      },
+      "media": [
+        "/products/bellow-covers/hsb.png",
+        "/products/bellow-covers/sewn-2.png",
+        "/products/bellow-covers/sewn-1.png",
+        "/products/bellow-covers/lamella-3.png"
+      ],
+      "construction_variants": {
+        "title": "CONSTRUCTION VARIANTS",
+        "cards": [
+          {
+            "tag": "STITCHED",
+            "title": "SEWN BELLOWS",
+            "description": "Fabric bellows constructed using industrial stitching techniques, suitable for general protection applications with controlled flexibility and cost efficiency.",
+            "footer_label": "PRECISION STITCHED",
+            "media": "/products/bellow-covers/sewn-1.png"
+          },
+          {
+            "tag": "HEAT-SEALED",
+            "title": "THERMO-WELDED",
+            "description": "Manufactured from thermoplastic-coated fabrics, precision-pleated and heat-welded to integrated PVC stiffeners at each fold, resulting in a sealed construction without stitched seams or needle holes.",
+            "footer_label": "LIQUID & DUST PROOF",
+            "media": "/products/bellow-covers/hsb.png"
+          },
+          {
+            "tag": "ARMORED",
+            "title": "LAMELLA BELLOWS",
+            "description": "Heavy-duty bellows incorporating stainless steel lamella plates mounted over each convolution, designed for applications involving hot chips, sparks, and high mechanical abrasion.",
+            "footer_label": "EXTREME PROTECTION",
+            "media": "/products/bellow-covers/lamella-1.png"
+          }
+        ],
+        "type_sections_with_pictures": [
+          {
+            "title": "Thermo Weld or Heat Sealed Bellows",
+            "body": [
+              "Heat-Sealed Bellows Covers are manufactured from a single sheet of thermoplastic-coated technical fabric that is precision-pleated and heat-welded to PVC stiffeners at each fold. This process creates a uniform, sealed construction without stitched seams or needle holes, improving resistance to fine particles, light abrasives, oil, chips, and liquid exposure. The design can be produced in various shapes and sizes, with optional stainless-steel reinforcements for applications requiring enhanced protection against sparks or hot chips."
+            ],
+            "media": "/products/bellow-covers/sewn-1.png"
+          },
+          {
+            "title": "Lamella Bellows",
+            "body": [
+              "Our Lamella Bellows are manufactured using a precision-folded base bellows combined with integrated stainless steel lamella plates at each convolution. The lamella elements are mechanically attached to the bellows structure to provide enhanced resistance against hot chips, sparks, and abrasive debris, while maintaining controlled folding and smooth operation. Depending on application requirements, the base bellows can be produced using heat-sealed or sewn construction, with designs optimized for compact compression, repeatable movement, and long service life in demanding operating environments."
+            ],
+            "media": "/products/bellow-covers/sewn1.jpg"
+          },
+          {
+            "title": "Conventional Sewn Bellows",
+            "body": [
+              "These are authentic general purpose bellows manufactured with internal PVC support glued with an extenal PVC coating, resistant to dust, coolants spray, temperatures ranging from 30C to 75C. It also comes with lamellas, scissor frames etc to meet the complicated requirements of the machines."
+            ],
+            "media": ["pictures", "Scissor lift bellow pic"]
+          }
+        ]
+      },
+      "materials_expertise": {
+        "title": "MATERIALS EXPERTISE",
+        "items": [
+          "PVC-coated polyester (single and double-sided)",
+          "PU-coated fabrics",
+          "PTFE and specialty technical fabrics",
+          "Multi-layer fabric constructions"
+        ],
+        "note": "Material selection is based on application conditions such as abrasion, temperature, chemical exposure, and movement cycles."
+      },
+      "design_and_customisation": {
+        "title": "DESIGN & CUSTOMISATION",
+        "note": "All bellows are custom-manufactured to match machine geometry and operating parameters:",
+        "items": [
+          "Rectangular, square, circular, tapered, and complex profiles",
+          "Customized fold pitch, stroke length, and compression ratio",
+          "Optional internal PVC stiffeners, frames, or guide elements",
+          "Multiple mounting solutions to suit customer interfaces",
+          "Designs are optimized for smooth movement, dimensional stability, and long service life."
+        ]
+      },
+      "manufacturing_capabilities": {
+        "title": "MANUFACTURING CAPABILITIES",
+        "items": [
+          "Precision pleating and folding",
+          "Sewing, thermo-welding, and hybrid constructions",
+          "Integration of PVC stiffeners and metal reinforcements",
+          "Consistent batch production with repeatable quality"
+        ],
+        "note": "We support prototype development, small batches, and series production."
+      },
+      "quality_focus": {
+        "title": "QUALITY FOCUS",
+        "items": [
+          "Controlled fabrication processes",
+          "Dimensional accuracy and consistency",
+          "Visual and functional inspection at key stages",
+          "Focus on durability under repetitive motion"
+        ]
+      },
+      "applications_served": {
+        "title": "APPLICATIONS SERVED",
+        "items": [
+          "Machine tools and CNC equipment",
+          "Linear motion systems and guideways",
+          "Automation and material handling machinery",
+          "Industrial and precision mechanical equipment"
+        ]
+      },
+      "capability_sheet": {
+        "title": "Bellows Covers – Manufacturing Capabilities",
+        "usage": ["as a downloadable PDF", "inside RFQs / export enquiries"],
+        "media": "ONLY PICTURES"
+      },
+      "cta": {
+        "title": "READY FOR SERIES PRODUCTION?",
+        "subtitle": "Download technical specifications or request a custom quote.",
+        "button": "EXPORT ENQUIRY / RFQ"
+      }
+    },
+
+    {
+      "id": "wiper-systems",
+      "name": "Way Wipers / Wiper Systems",
+      "hero": {
+        "title": "WAY WIPERS / WIPER SYSTEMS",
+        "body": [
+          "Way wipers are critical protection components mounted on machine carriages to continuously clean and seal guideways during operation. They prevent chips, dust, coolant, and debris from entering sensitive sliding or rolling surfaces.",
+          "An effective wiper system directly improves machine accuracy, reduces maintenance, and prolongs guideway life."
+        ],
+        "primary_cta": "CONTACT US",
+        "secondary_cta": "APPLICATIONS",
+        "hero_media": {
+          "type": "picture",
+          "note": "PictureS OF FORMED WIPERS AND MOULDED WIPERS."
+        }
+      },
+      "media": [
+        "/products/wiper-systems/wipers.png",
+        "/products/wiper-systems/formed-wipers-1.png",
+        "/products/wiper-systems/formed-wipers-2.png",
+        "/products/wiper-systems/moulded-wipers-1.png",
+        "/products/wiper-systems/moulded-wipers-2.png"
+      ],
+      "construction_variants": {
+        "title": "CONSTRUCTION VARIANTS",
+        "cards": [
+          {
+            "tag": "MOULDED",
+            "title": "MOULDED WIPERS",
+            "description": "Precision-moulded wipers designed for consistent geometry, reliable sealing, and repeatable OEM performance.",
+            "footer_label": "PICTURES",
+            "media": "/products/wiper-systems/moulded-wipers-1.png"
+          },
+          {
+            "tag": "FORMED",
+            "title": "FORMED WIPERS",
+            "description": "Formed wipers manufactured from wear-resistant strips and shaped to suit specific guideway profiles and mounting conditions.",
+            "footer_label": "PICTURES",
+            "media": "/products/wiper-systems/formed-wipers-2.png"
+          }
+        ],
+        "type_sections_with_pictures": [
+          {
+            "title": "MOULDED WIPERS",
+            "body": [
+              "Precision-moulded wipers designed for consistent geometry, reliable sealing, and repeatable OEM performance.",
+              "Suitable for series production and long-term supply programs",
+              "Features:",
+              "Injection or compression moulded for uniform profile accuracy",
+              "Stable wiping pressure across the full guideway length",
+              "Excellent resistance to oils, coolants, and wear",
+              "Applications:",
+              "CNC machine tools",
+              "Linear guideways and box ways",
+              "OEM-standardised machine designs"
+            ],
+            "media": "/products/bellow-covers/sewn1.jpg"
+          },
+          {
+            "title": "FORMED WIPERS",
+            "body": [
+              "Formed Way Wipers",
+              "Formed wipers manufactured from wear-resistant strips and shaped to suit specific guideway profiles and mounting conditions.",
+              "Features:",
+              "Flexible design for non-standard or retrofit applications",
+              "Good wiping efficiency with controlled contact pressure",
+              "Cost-effective solution for low to medium volumes",
+              "Applications:",
+              "Retrofit and replacement wipers",
+              "Custom or legacy machine designs",
+              "General industrial machinery"
+            ],
+            "media": "/products/bellow-covers/sewn1.jpg"
+          },
+          {
+            "title": "Guard Wipers",
+            "body": [
+              "Guard wipers are designed to protect exposed machine components by preventing chips, dust, coolant, and debris from entering critical guideways and moving parts. Installed at strategic interfaces on machine guards and covers, they act as a first line of defence, reducing wear and extending machine service life.",
+              "Our guard wipers are manufactured for CNC machines and industrial equipment where reliable sealing and consistent wiping performance are essential. They are suitable for both OEM installations and retrofit or replacement applications.",
+              "Available in a range of profiles, sizes, and materials, guard wipers can be customised to suit specific machine geometries, operating speeds, and environmental conditions. Material options offer resistance to oils, coolants, and fine or abrasive particles, ensuring dependable performance in demanding shop-floor environments.",
+              "Designed for easy integration with machine guards, way covers, and bellows systems, our guard wipers provide a cost-effective solution for improving machine protection and reducing maintenance downtime."
+            ],
+            "media": "/products/bellow-covers/sewn1.jpg"
+          }
+        ]
+      },
+      "materials_expertise": {
+        "title": "MATERIAL OPTIONS",
+        "note": "Wiper materials are selected based on guideway type, operating speed, and environmental exposure:",
+        "items": [
+          "Polyurethane (PU)",
+          "Nitrile rubber (NBR)",
+          "Special wear-resistant elastomers",
+          "Metal-backed wiper profiles"
+        ]
+      },
+      "design_and_customisation": {
+        "title": "CUSTOMISATION CAPABILITIES AT SIGNAGE",
+        "note": "All wiper systems are supplied to specification. We support:",
+        "items": [
+          "Custom profiles and dimensions",
+          "Compatibility with linear guides and box ways",
+          "Metal housings and mounting plates",
+          "OEM branding and part identification",
+          "Prototype development and series production."
+        ]
+      },
+      "manufacturing_capabilities": {
+        "title": "MANUFACTURING CAPABILITIES",
+        "items": [
+          "Precision moulding and forming processes",
+          "Controlled profile shaping and finishing",
+          "Consistent lip geometry and contact pressure",
+          "Batch repeatability for long-term OEM supply"
+        ]
+      },
+      "quality_focus": {
+        "title": "QUALITY & INSPECTION",
+        "items": [
+          "Dimensional inspection for fit and profile accuracy",
+          "Material consistency checks",
+          "In-process quality monitoring",
+          "Export-grade packing for international shipments"
+        ]
+      },
+      "applications_served": {
+        "title": "TYPICAL APPLICATIONS",
+        "items": [
+          "CNC machine tools",
+          "Machining centres",
+          "Linear motion systems",
+          "Automation equipment",
+          "Heavy engineering machinery"
+        ]
+      },
+      "capability_sheet": {
+        "title": "Capability Sheet – Way Wipers & Wiper Systems",
+        "usage": [],
+        "content_blocks": [
+          "Product Overview",
+          "Types of Wipers Manufactured",
+          "Material Capabilities",
+          "Design & Customisation",
+          "Manufacturing Capabilities",
+          "Quality & Inspection",
+          "Typical Applications",
+          "Supply Capability",
+          "Information Required for Enquiry",
+          "Contact & Technical Support"
+        ]
+      },
+      "cta": {
+        "title": "CONTACT & TECHNICAL SUPPORT",
+        "subtitle": "Share your drawings or application details. Our technical team will support you with the most suitable way wiper or wiper system for your machine design.",
+        "button": "EXPORT ENQUIRY / RFQ"
+      }
+    },
+
+    {
+      "id": "apron-covers",
+      "name": "Apron Covers",
+      "hero": {
+        "title": "APRON COVERS",
+        "body": [
+          "Apron covers offer a compact and reliable solution for protecting machine tool guideways where space limitations or design constraints make telescopic covers impractical. Their lightweight design and flexible construction allow smooth machine operation while effectively shielding critical components from contaminants—helping improve machine reliability, reduce maintenance, and extend service life."
+        ],
+        "primary_cta": "CONTACT US",
+        "secondary_cta": "APPLICATIONS",
+        "hero_media": {
+          "type": "picture",
+          "note": "PHOTOGRAPHS"
+        }
+      },
+      "media": [
+        "/products/apron-covers/ac-1.png",
+        "/products/apron-covers/ac-2.png",
+        "/products/apron-covers/ac-3.png"
+      ],
+      "construction_variants": {},
+      "materials_expertise": {
+        "title": "MATERIALS & CONSTRUCTION",
+        "items": [
+          "Aluminum apron slats / profiles",
+          "Coated technical fabrics (PVC, PU, PTFE-coated)",
+          "Hybrid metal–fabric constructions",
+          "Corrosion-resistant components",
+          "Optional reinforced edges for high-wear conditions"
+        ]
+      },
+      "design_and_customisation": {
+        "title": "CUSTOM & OPTIONAL CAPABILITIES",
+        "items": [
+          "Custom lengths, widths, and stroke configurations",
+          "Aluminum apron, coated fabric apron, or hybrid constructions",
+          "Reinforced edges or wear-resistant layers for high-chip load applications",
+          "Mounting options tailored to machine design and installation constraints",
+          "High-temperature and heavy-duty variants available on request",
+          "Designed to integrate with existing machine protection systems",
+          "Integration with bellows and way wiper systems"
+        ]
+      },
+      "manufacturing_capabilities": {
+        "title": "QUALITY & EXPORT CAPABILITY",
+        "items": [
+          "Consistent manufacturing under controlled processes",
+          "Dimensional accuracy as per customer specifications",
+          "Final inspection prior to dispatch",
+          "Export-ready packaging for international shipment",
+          "Suitable for EU, US, and global OEM requirements"
+        ]
+      },
+      "quality_focus": {
+        "title": "STANDARD FEATURES",
+        "items": [
+          "Protection for guideways, slideways, and linear motion assemblies",
+          "Compact, low-profile construction",
+          "Lightweight design for smooth axis movement",
+          "Resistant to chips, coolant, oils, and shop-floor contaminants",
+          "Designed for continuous industrial operation",
+          "Easy installation and low maintenance"
+        ]
+      },
+      "applications_served": {
+        "title": "APPLICATIONS",
+        "items": [
+          "CNC machining centers and milling machines",
+          "CNC lathes and turning centers",
+          "Grinding machines",
+          "Automation and linear motion systems",
+          "Special-purpose and custom-built machines"
+        ]
+      },
+      "capability_sheet": {
+        "title": "APRON COVERS – CAPABILITY SHEET",
+        "usage": [],
+        "content_blocks": [
+          "Product Overview",
+          "Applications",
+          "Standard Features",
+          "Materials & Construction",
+          "Custom & Optional Capabilities",
+          "Performance Benefits",
+          "Quality & Export Capability",
+          "Engineering Support"
+        ]
+      },
+      "cta": {
+        "title": "ENGINEERING SUPPORT",
+        "subtitle": "Technical support available for selection, design optimization, and installation guidance.",
+        "button": "EXPORT ENQUIRY / RFQ"
+      }
+    },
+
+    {
+      "id": "roll-up-way-covers",
+      "name": "Roll-Up (Roll Way) Covers",
+      "hero": {
+        "title": "ROLL-UP (ROLL WAY) COVERS",
+        "body": [
+          "Roll-up way covers are compact protection solutions designed to safeguard guideways, linear rails, ball screws, and moving machine components from chips, coolant, oil, and debris. The cover material rolls and unrolls smoothly on a spring-loaded or motorized mechanism as the machine axis moves, providing continuous protection with minimal space requirement.",
+          "Ideal for high-speed and long-travel applications, roll-up covers are widely used on CNC machines and automation systems where conventional covers are not feasible. Their lightweight construction ensures smooth operation while improving machine reliability and reducing maintenance."
+        ],
+        "primary_cta": "CONTACT US",
+        "secondary_cta": "APPLICATIONS",
+        "hero_media": {
+          "type": "picture",
+          "note": "PHOTOGRAPH OF ROLL WAY COVER WITH HOUSING AND WITHOUT HOUSING."
+        }
+      },
+      "media": [
+        "/products/roll-up-way-covers/rwc-1.png",
+        "/products/roll-up-way-covers/rwc-2.png",
+        "/products/roll-up-way-covers/rwc-3.png",
+        "/products/roll-up-way-covers/rwc-4.png"
+      ],
+      "construction_variants": {
+        "title": "CONSTRUCTION VARIANTS",
+        "cards": [
+          {
+            "tag": "WITHOUT HOUSING",
+            "title": "Roll-up cover without housing",
+            "description": "Roll-up covers without a housing are suitable for areas with limited space, and facilitate optimal integration into the machine enclosure.",
+            "footer_label": "",
+            "media": "/products/roll-up-way-covers/rwc-1.jpg"
+          },
+          {
+            "tag": "WITH HOUSING",
+            "title": "Roll-up cover with housing",
+            "description": "Roll-up covers with a housing protect the roll-up cover and enable simple assembly, also retrofitting. The complete system provides selectable fixing possibilities and a defined belt outlet position.",
+            "footer_label": "",
+            "media": "/products/roll-up-way-covers/rwc-2.jpg"
+          }
+        ],
+        "type_sections_with_pictures": [
+          {
+            "title": "Roll-up cover without housing",
+            "body": [
+              "Highly tear-resistant due to plastic-coated special fabric in different material thicknesses and designs",
+              "Protection against chipping waste, oils and cooling emulsions",
+              "Little space required",
+              "Fixing via fixing angle bracket or integration within the machine"
+            ],
+            "media": "PHOTOGRAPH"
+          },
+          {
+            "title": "Roll-up cover with housing",
+            "body": [
+              "Steel belt made of rust-resistant and acid-resistant spring steel strip in material thicknesses from 0.2 to 0.4 mm",
+              "Plastic belt made of special fabric in different material thicknesses and designs",
+              "Steel roller belts only available in combination with housing",
+              "Protection against chipping waste, oils and cooling emulsions",
+              "For high travel speeds and loads."
+            ],
+            "media": "PHOTOGRAPH"
+          },
+          {
+            "title": "Special Apron curtain Roller Cover",
+            "body": [],
+            "media": ["PHOTOGRAPH", "Video"]
+          }
+        ]
+      },
+      "materials_expertise": {
+        "title": "MATERIALS & CONSTRUCTION",
+        "items": [
+          "High-performance technical fabrics (PVC, PU, PTFE-coated)",
+          "Stainless steel or composite cover materials (application-specific)",
+          "Corrosion-resistant rollers and components",
+          "Reinforced edges available for increased wear resistance"
+        ]
+      },
+      "design_and_customisation": {
+        "title": "CUSTOM & OPTIONAL CAPABILITIES",
+        "items": [
+          "Custom widths, lengths, and travel configurations",
+          "Spring-loaded or motorized roller systems",
+          "Material selection based on speed, temperature, and environment",
+          "Heavy-duty variants for high chip load applications",
+          "Customized mounting options for OEM and retrofit installations"
+        ]
+      },
+      "manufacturing_capabilities": {
+        "title": "QUALITY & EXPORT CAPABILITY",
+        "items": [
+          "Manufactured under controlled processes for consistent quality",
+          "Dimensional accuracy maintained as per customer specifications",
+          "Final inspection prior to dispatch",
+          "Export-ready packaging for international shipment"
+        ]
+      },
+      "quality_focus": {
+        "title": "STANDARD FEATURES",
+        "items": [
+          "Protection for guideways, linear rails, and moving assemblies",
+          "Compact, space-saving design for restricted installations",
+          "Suitable for high-speed and long-travel applications",
+          "Smooth rolling operation with controlled tension",
+          "Lightweight construction with minimal impact on machine performance",
+          "Resistant to chips, coolant, oils, and shop-floor contaminants",
+          "Designed for continuous industrial operation",
+          "Low maintenance and easy installation"
+        ]
+      },
+      "applications_served": {
+        "title": "APPLICATIONS",
+        "items": [
+          "CNC machining centers and milling machines",
+          "CNC lathes and turning centers",
+          "Grinding machines",
+          "Automation and linear motion systems",
+          "Special-purpose and custom-built machines"
+        ]
+      },
+      "capability_sheet": {
+        "title": "ROLL-UP WAY COVERS – CAPABILITY SHEET (EXPORT)",
+        "usage": [],
+        "content_blocks": [
+          "Product Overview",
+          "Applications",
+          "Standard Features",
+          "Materials & Construction",
+          "Custom & Optional Capabilities",
+          "Performance Benefits",
+          "Quality & Export Capability",
+          "Engineering Support"
+        ]
+      },
+      "cta": {
+        "title": "ENGINEERING SUPPORT",
+        "subtitle": "Technical support available for product selection, design optimization, and installation guidance.",
+        "button": "EXPORT ENQUIRY / RFQ"
+      }
+    },
+
+    {
+      "id": "telescopic-spring-covers",
+      "name": "Telescopic Spring Covers",
+      "hero": {
+        "title": "TELESCOPIC SPRING COVERS",
+        "body": [
+          "Spring covers protect spindles, columns, shafts, threads and rod guides reliably against contamination, chips and mechanical damage. They provide a good sealing function, and are self-cleaning if installed in a suitable position. High temperature resistance and resistance to chemicals guarantee reliable protection even under extreme operating conditions.",
+          "Telescopic springs – also known as spiral springs or spring guards – have been developed to protect against accidents and mechanical damage wherever there are rotating parts, such as spindles or shafts. They are designed to follow the motion of the machine by spring force."
+        ],
+        "primary_cta": "CONTACT US",
+        "secondary_cta": "APPLICATIONS",
+        "hero_media": {
+          "type": "picture",
+          "note": "PHOTOGRAPHS"
+        }
+      },
+      "media": [
+        "/products/telescopic-spring-covers/spring-covers-1.png",
+        "/products/telescopic-spring-covers/spring-covers-2.png"
+      ],
+      "construction_variants": {
+        "title": "PHOTOGRAPHS",
+        "cards": [],
+        "type_sections_with_pictures": [
+          {
+            "title": "PHOTOGRAPHS",
+            "body": ["Refer the PDF and copy circled."],
+            "media": "PHOTOGRPAHS."
+          }
+        ]
+      },
+      "materials_expertise": {
+        "title": "MATERIALS EXPERTISE",
+        "items": []
+      },
+      "design_and_customisation": {
+        "title": "DESIGN & CUSTOMISATION",
+        "items": []
+      },
+      "manufacturing_capabilities": {
+        "title": "MANUFACTURING CAPABILITIES",
+        "items": []
+      },
+      "quality_focus": {
+        "title": "QUALITY FOCUS",
+        "items": []
+      },
+      "applications_served": {
+        "title": "APPLICATIONS SERVED",
+        "items": []
+      },
+      "capability_sheet": {
+        "title": "",
+        "usage": [],
+        "content_blocks": []
+      },
+      "cta": {
+        "title": "READY FOR SERIES PRODUCTION?",
+        "subtitle": "Download technical specifications or request a custom quote.",
+        "button": "EXPORT ENQUIRY / RFQ"
+      }
+    },
+
+    {
+      "id": "telescopic-steel-way-covers",
+      "name": "Telescopic Covers",
+      "hero": {
+        "title": "TELESCOPIC COVERS",
+        "body": [
+          "Telescopic Steel Way Covers",
+          "Telescopic steel way covers provide heavy-duty protection for machine slideways, linear guides, ball screws, and critical moving components. Designed to operate smoothly along the machine axis, they protect against chips, swarf, coolants, oils, and mechanical impact, helping extend machine life and reduce downtime. Available in custom sizes and configurations for horizontal, vertical, and multi-axis applications, they are ideal for CNC machines and industrial automation equipment."
+        ],
+        "primary_cta": "CONTACT US",
+        "secondary_cta": "APPLICATIONS",
+        "hero_media": {
+          "type": "picture",
+          "note": "PHOTOGRAPHS"
+        }
+      },
+      "media": [
+        "/products/telescopic-steel-way-covers/tsc-1.png",
+        "/products/telescopic-steel-way-covers/tsc-2.png",
+        "/products/telescopic-steel-way-covers/tsc-3.png",
+        "/products/telescopic-steel-way-covers/tsc-4.png",
+        "/products/telescopic-steel-way-covers/tsc-5.png"
+      ],
+      "construction_variants": {
+        "title": "TELESCOPIC STEEL WAY COVERS",
+        "cards": [],
+        "type_sections_with_pictures": [
+          {
+            "title": "PHOTOGRAPHS",
+            "body": [],
+            "media": "PHOTOGRAPHS"
+          }
+        ]
+      },
+      "materials_expertise": {
+        "title": "MATERIALS & CONSTRUCTION",
+        "items": [
+          "Panels: Cold-rolled steel / stainless steel (optional)",
+          "Guidance: Roller-based or sliding shoe system",
+          "Wipers: Oil- and coolant-resistant polyurethane / rubber",
+          "Finish: Powder-coated or painted as specified"
+        ]
+      },
+      "design_and_customisation": {
+        "title": "DESIGN & CUSTOMIZATION",
+        "items": [
+          "Horizontal or vertical configurations",
+          "Flat or box-type designs",
+          "Optional chip deflectors and coolant drainage",
+          "Custom mounting flanges and interfaces",
+          "Designed to customer drawings or machine parameters"
+        ]
+      },
+      "manufacturing_capabilities": {
+        "title": "MANUFACTURING & QUALITY",
+        "items": [
+          "Precision fabrication and assembly",
+          "Functional inspection prior to dispatch",
+          "Consistent quality standards for export markets"
+        ]
+      },
+      "quality_focus": {
+        "title": "KEY FEATURES",
+        "items": [
+          "Heavy-duty steel construction",
+          "High resistance to hot chips, coolant, and cutting fluids",
+          "Smooth telescopic movement with low friction",
+          "Compact stacking for maximum usable travel",
+          "Suitable for high-speed, high-cycle operations",
+          "Long operational life in harsh machining conditions"
+        ]
+      },
+      "applications_served": {
+        "title": "APPLICATIONS",
+        "items": [
+          "CNC machining centers",
+          "Milling, turning, boring, and grinding machines",
+          "Heavy-duty and precision machine tools"
+        ]
+      },
+      "capability_sheet": {
+        "title": "Capability Sheet",
+        "usage": [],
+        "content_blocks": [
+          "Overview",
+          "Key Features",
+          "Materials & Construction",
+          "Design & Customization",
+          "Performance",
+          "Applications",
+          "Manufacturing & Quality",
+          "Industries Served",
+          "WE WILL ALSO ATTACH THE INQUIRY SHEET WITH THIS, IT HAS BEEN ATTACHED IN THE MAIL"
+        ]
+      },
+      "cta": {
+        "title": "READY FOR SERIES PRODUCTION?",
+        "subtitle": "Download technical specifications or request a custom quote.",
+        "button": "EXPORT ENQUIRY / RFQ"
+      }
+    },
+
+    {
+      "id": "cable-carriers-systems",
+      "name": "Cable Carriers Systems",
+      "hero": {
+        "title": "CABLE CARRIERS SYSTEMS",
+        "body": [
+          "At Sign Age we are dealing in world-class cable and hose carriers in a wide range of sizes and types for a variety of environments. We can engineer a carrier system that will maximize productivity and minimize costs for an unlimited number of applications- from offshore drilling rigs to automated machining centers. Because Sign Age offers its customers a complete line of both plated, high strength steel and durable glass-fiber reinforced nylon carrier systems; choice of the most appropriate, cost effective carrier system is yours.",
+          "Cable chains will secure, store and guide to all types of movable equipment’s. These are connected together at intervals by stays and several link variant, in different sizes. It offers robust construction, high load capacity and long life."
+        ],
+        "primary_cta": "CONTACT US",
+        "secondary_cta": "APPLICATIONS",
+        "hero_media": {
+          "type": "picture",
+          "note": "If you can get take pictures from Shutterstock - please take these : Asset id: 1900799200, Asset id: 1903153984, Asset id: 1392480572"
+        }
+      },
+      "media": [
+        "/products/cable-carriers-systems/ccs-1.png",
+        "/products/cable-carriers-systems/ccs-2.png",
+        "/products/cable-carriers-systems/ccs-3.png"
+      ],
+      "construction_variants": {
+        "title": "",
+        "cards": [],
+        "type_sections_with_pictures": [
+          {
+            "title": "",
+            "body": [
+              "If you can incorporate more pictures of – CONDUFLEX AND STABIFLEX CHAINS, THAT WILL BE GREAT.",
+              "I WILL PROVIDE SOME PICTURES OF STEEL CHAINS SOON, ITS UNDER MANUFACTURING. I WILL SEND THEM ONCE ITS READY."
+            ],
+            "media": "/products/bellow-covers/sewn1.jpg"
+          }
+        ]
+      },
+      "materials_expertise": {
+        "title": "",
+        "items": [
+          "plated, high strength steel",
+          "durable glass-fiber reinforced nylon"
+        ]
+      },
+      "design_and_customisation": {
+        "title": "",
+        "items": [
+          "We can engineer a carrier system that will maximize productivity and minimize costs for an unlimited number of applications- from offshore drilling rigs to automated machining centers."
+        ]
+      },
+      "manufacturing_capabilities": {
+        "title": "",
+        "items": [
+          "Copy data from our website : Please check attachement : You copy the entire technical data, - all the way to non standard cable carriers.",
+          "Under the same product on our website, there is – Steel chains, you copy the whole thing again."
+        ]
+      },
+      "quality_focus": {
+        "title": "",
+        "items": []
+      },
+      "applications_served": {
+        "title": "",
+        "items": ["offshore drilling rigs", "automated machining centers"]
+      },
+      "capability_sheet": {
+        "title": "",
+        "usage": [],
+        "content_blocks": []
+      },
+      "cta": {
+        "title": "READY FOR SERIES PRODUCTION?",
+        "subtitle": "Download technical specifications or request a custom quote.",
+        "button": "EXPORT ENQUIRY / RFQ"
+      }
+    },
+
+    {
+      "id": "cnc-sheet-metal-enclosures-assemblies",
+      "name": "CNC Sheet Metal Enclosures & Precision Assemblies",
+      "hero": {
+        "title": "CNC SHEET METAL ENCLOSURES & PRECISION ASSEMBLIES",
+        "body": [
+          "Integrated Fabrication for Global OEMs",
+          "We manufacture precision CNC sheet metal enclosures, cabinets and fully assembled fabricated systems for industrial OEM customers.",
+          "From laser-cut components to complete welded and powder-coated assemblies, our facility supports structured production workflows aligned to international quality expectations.",
+          "We combine engineering interpretation capability with controlled fabrication processes — delivering export-ready industrial solutions."
+        ],
+        "primary_cta": "CONTACT US",
+        "secondary_cta": "APPLICATIONS",
+        "hero_media": {
+          "type": "picture",
+          "note": ""
+        }
+      },
+      "media": [
+        "/products/cnc/sme1.png",
+        "/products/cnc/sme2.png",
+        "/products/cnc/sme3.png",
+        "/products/cnc/sme4.png"
+      ],
+      "construction_variants": {
+        "title": "PRODUCT RANGE",
+        "cards": [],
+        "type_sections_with_pictures": []
+      },
+      "materials_expertise": {
+        "title": "MATERIALS WE WORK WITH",
+        "items": [
+          "Mild Steel (CRCA / HR)",
+          "Stainless Steel (SS304 / SS316)",
+          "Galvanized Steel",
+          "Aluminium",
+          "Pre-coated / Powder-coated Sheets",
+          "Thickness capability: 0.8 mm to 6 mm",
+          "(Extended range available based on design requirements)"
+        ]
+      },
+      "design_and_customisation": {
+        "title": "ASSEMBLY CAPABILITY",
+        "items": [
+          "Mechanical assembly",
+          "Door fitting & locking systems",
+          "Gasket installation",
+          "Hinges & hardware integration",
+          "Electrical panel pre-fitting (if applicable)",
+          "Packaging for export shipment"
+        ],
+        "note": "This positions you as a solution provider, not just a sheet metal vendor."
+      },
+      "manufacturing_capabilities": {
+        "title": "MANUFACTURING CAPABILITIES",
+        "items": [
+          "CNC Laser Cutting",
+          "CNC Turret Punching",
+          "CNC Bending (Press Brake)",
+          "MIG / TIG Welding",
+          "Spot Welding",
+          "Stud Welding",
+          "Sheet Metal Rolling",
+          "Mechanical Assembly",
+          "Surface Preparation & Powder Coating",
+          "Surface Treatment (Plating / Anodizing via partners)"
+        ]
+      },
+      "quality_focus": {
+        "title": "QUALITY & COMPLIANCE",
+        "items": [
+          "Dimensional inspection as per drawings",
+          "In-process quality checks",
+          "Weld quality inspection",
+          "Powder coating thickness testing",
+          "Custom packaging for international shipping",
+          "Compliance with OEM drawing specifications",
+          "If you have ISO certification — mention it prominently here."
+        ]
+      },
+      "applications_served": {
+        "title": "INDUSTRIES SERVED",
+        "items": [
+          "Machine Tool Manufacturers",
+          "Industrial Automation OEMs",
+          "Electrical Panel Manufacturers",
+          "Process Equipment Builders",
+          "Engineering Equipment Manufacturers"
+        ]
+      },
+      "capability_sheet": {
+        "title": "WHY CHOOSE US",
+        "usage": [],
+        "content_blocks": [
+          "Export-focused manufacturing mindset",
+          "Experience with precision industrial products",
+          "Strong engineering drawing interpretation",
+          "Controlled fabrication processes",
+          "Competitive cost structure for global markets",
+          "Flexible batch production",
+          "Reliable lead times"
+        ]
+      },
+      "cta": {
+        "title": "PARTNER WITH US",
+        "subtitle": "If you are looking for a reliable Indian manufacturer for precision sheet metal enclosures and fabricated assemblies, our team is ready to support your project from prototype to production. Send us your drawings for technical evaluation and quotation.",
+        "button": "EXPORT ENQUIRY / RFQ"
+      },
+      "additional_sections": [
+        {
+          "title": "PRODUCTION PHILOSOPHY",
+          "items": [
+            "We position ourselves not as a job shop — but as a precision fabrication partner.",
+            "Controlled production flow",
+            "Engineering-driven execution",
+            "Flexible batch volumes",
+            "Reliable lead times",
+            "Competitive export pricing structure",
+            "Long-term OEM partnership approach"
+          ]
+        },
+        {
+          "title": "SEO-FRIENDLY BUT PROFESSIONAL KEYWORDS",
+          "items": [
+            "Custom CNC sheet metal fabrication",
+            "Industrial sheet metal enclosures manufacturer",
+            "OEM sheet metal assemblies",
+            "Precision fabricated cabinets",
+            "Export sheet metal supplier India"
+          ]
+        },
+        {
+          "title": "PRODUCT RANGE",
+          "items": [
+            "Electrical control cabinets",
+            "CNC machine enclosures",
+            "Industrial equipment housings",
+            "Operator panels & console boxes",
+            "Fabricated frames & structural assemblies",
+            "Stainless steel enclosures",
+            "Junction boxes",
+            "Custom sheet metal sub-assemblies",
+            "Welded & bolted fabricated structures",
+            "OEM machine body panels"
+          ]
+        }
+      ]
+    }
+  ]
+}
