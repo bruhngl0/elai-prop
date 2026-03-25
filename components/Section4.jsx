@@ -52,12 +52,12 @@ const Section4 = () => {
               <div className="s4-img-stack">
                 <img
                   className="s4-img s4-img--back"
-                  src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=700&q=80"
+                  src="ii.jpeg"
                   alt="Jewellery"
                 />
                 <img
                   className="s4-img s4-img--front"
-                  src="https://images.unsplash.com/photo-1600721391776-b5cd0e0048f9?w=700&q=80"
+                  src="vv.jpeg"
                   alt="Luxury accessories"
                 />
                 <div className="s4-glass-tag">
@@ -70,19 +70,26 @@ const Section4 = () => {
             <div className="section4-right" ref={rightRef}>
               <p className="section4-subtitle">WHY CHOOSE ELAI</p>
               <h2 className="section4-title">
-                Why Elai<br />is different?
+                Why Elai
+                <br />
+                is different?
               </h2>
               <p className="section4-description">
                 Unlike Amazon, Myntra, or Nykaa, Elai is exclusively built for
-                accessories. Every feature, every category, every drop — designed
-                for the accessory-first shopper.
+                accessories. Every feature, every category, every drop —
+                designed for the accessory-first shopper.
               </p>
 
               <ul className="benefits-list">
                 {benefits.map((benefit, index) => (
                   <li key={index} className="benefit-item">
                     <div className="check-icon">
-                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                      <svg
+                        width="20"
+                        height="20"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                      >
                         <circle
                           cx="12"
                           cy="12"
@@ -110,9 +117,22 @@ const Section4 = () => {
 
       <div className="uvp-strip">
         <div className="uvp-strip__inner">
-          {["Elai Choice", "Elai Style", "Elai Confidence", "Elai Personality", "Elai Convenience",
-            "Elai Choice", "Elai Style", "Elai Confidence", "Elai Personality", "Elai Convenience"].map((tag, i) => (
-            <span key={i} className="uvp-strip__tag">{tag}<span className="uvp-strip__dot"> &#183; </span></span>
+          {[
+            "Elai Choice",
+            "Elai Style",
+            "Elai Confidence",
+            "Elai Personality",
+            "Elai Convenience",
+            "Elai Choice",
+            "Elai Style",
+            "Elai Confidence",
+            "Elai Personality",
+            "Elai Convenience",
+          ].map((tag, i) => (
+            <span key={i} className="uvp-strip__tag">
+              {tag}
+              <span className="uvp-strip__dot"> &#183; </span>
+            </span>
           ))}
         </div>
       </div>
@@ -121,5 +141,4 @@ const Section4 = () => {
 };
 
 export default Section4;
- 
-    
+

@@ -12,32 +12,32 @@ const Section6 = () => {
     {
       title: "Smart Categories",
       desc: "40+ intelligently segmented accessory categories for effortless discovery.",
-      icon: "🔍",
+      icon: "",
     },
     {
       title: "Trend-First Homepage",
       desc: "Always updated with micro and macro fashion trends from across India.",
-      icon: "📊",
+      icon: "",
     },
     {
       title: "Style Quiz & Recs",
       desc: "Personalised picks based on your style profile and browsing behaviour.",
-      icon: "✨",
+      icon: "",
     },
     {
       title: "One-Day Metro Delivery",
       desc: "Lightning-fast delivery in major metros with real-time tracking.",
-      icon: "⚡",
+      icon: "",
     },
     {
       title: "Seller Dashboard",
       desc: "Inventory, analytics, brand store pages and easy onboarding for sellers.",
-      icon: "💼",
+      icon: "",
     },
     {
       title: "Elai Prime",
       desc: "Free delivery, early access to drops, loyalty points and exclusive deals.",
-      icon: "👑",
+      icon: "",
     },
   ];
 
@@ -113,7 +113,6 @@ const Section6 = () => {
                 className="feature-card"
                 ref={(el) => (featCardsRef.current[i] = el)}
               >
-                <div className="feature-icon">{f.icon}</div>
                 <h3 className="feature-title">{f.title}</h3>
                 <p className="feature-desc">{f.desc}</p>
               </div>
@@ -133,8 +132,8 @@ const Section6 = () => {
                 that works for you
               </h2>
               <p className="revenue-desc">
-                Join India&apos;s first accessories-dedicated platform and reach a highly
-                targeted audience of accessory-first shoppers.
+                Join India&apos;s first accessories-dedicated platform and reach
+                a highly targeted audience of accessory-first shoppers.
               </p>
               <a href="#contact" className="revenue-cta">
                 Apply as a Seller →
@@ -142,10 +141,7 @@ const Section6 = () => {
             </div>
             <div className="revenue-right">
               <div className="revenue-img-wrap">
-                <img
-                  src="https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800&q=80"
-                  alt="Seller showcase"
-                />
+                <img src=" oo.jpeg" alt="Seller showcase" />
                 <div className="revenue-img-glass">
                   <ul className="revenue-list">
                     {revenueStreams.map((stream, i) => (

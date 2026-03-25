@@ -1,34 +1,65 @@
 import type { Metadata } from "next";
-import {
-  Cinzel_Decorative,
-  EB_Garamond,
-  Cormorant_Garamond,
-} from "next/font/google";
+import localFont from "next/font/local";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import "./globals.css";
 
-const fontHeading = Cinzel_Decorative({
+
+
+const fontHeading = localFont({
+  src: "../public/fonts/Kingred/Kingred.otf",
   variable: "--font-heading",
-  subsets: ["latin"],
-  weight: ["400", "700", "900"],
+  display: "swap",
 });
 
-const fontSubheading = EB_Garamond({
+const fontSubheading = localFont({
+  src: [
+    {
+      path: "../public/fonts/TT/TT Interphases Pro Trial Regular.ttf",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "../public/fonts/TT/TT Interphases Pro Trial Medium.ttf",
+      weight: "500",
+      style: "normal",
+    },
+    {
+      path: "../public/fonts/TT/TT Interphases Pro Trial DemiBold.ttf",
+      weight: "600",
+      style: "normal",
+    },
+    {
+      path: "../public/fonts/TT/TT Interphases Pro Trial Bold.ttf",
+      weight: "700",
+      style: "normal",
+    },
+    {
+      path: "../public/fonts/TT/TT Interphases Pro Trial Bold Italic.ttf",
+      weight: "700",
+      style: "italic",
+    },
+  ],
   variable: "--font-subheading",
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800"],
+  display: "swap",
 });
 
-const fontBody = Cormorant_Garamond({
+const fontBody = localFont({
+  src: [
+    {
+      path: "../public/fonts/TT/TT Interphases Pro Trial Regular.ttf",
+      weight: "400",
+      style: "normal",
+    },
+  ],
   variable: "--font-body",
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700"],
+  display: "swap",
 });
 
 export const metadata: Metadata = {
   title: "Elai — India's All-in-One Accessories Marketplace",
-  description: "Elai is India's first dedicated accessories marketplace. Shop 40+ categories — fashion, ethnic, tech, luxury, beauty, and more. Elai style. Elai you.",
+  description:
+    "Elai is India's first dedicated accessories marketplace. Shop 40+ categories — fashion, ethnic, tech, luxury, beauty, and more. Elai style. Elai you.",
 };
 
 export default function RootLayout({

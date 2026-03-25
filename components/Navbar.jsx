@@ -15,15 +15,21 @@ const Navbar = () => {
 
   return (
     <div className="nav-outer">
-      <header className={`header ${scrolled ? "header--scrolled" : ""} ${menuOpen ? "header--open" : ""}`}>
+      <header
+        className={`header ${scrolled ? "header--scrolled" : ""} ${menuOpen ? "header--open" : ""}`}
+      >
         <div className="header-top">
-          <div className="header-brand">elai</div>
+          <div className="header-brand">
+            <img src="logo.png" style={{ width: "60px" }} />
+          </div>
 
           <nav className="header-nav">
             <a href="#categories">Categories</a>
             <a href="#why-elai">Why Elai</a>
             <a href="#sellers">Sell on Elai</a>
-            <a href="#contact" className="header-nav__cta">Get Early Access</a>
+            <a href="#contact" className="header-nav__cta">
+              Get Early Access
+            </a>
           </nav>
 
           <button
@@ -39,10 +45,22 @@ const Navbar = () => {
 
         {/* Always in DOM — animated via CSS */}
         <nav className="mobile-menu">
-          <a href="#categories" onClick={() => setMenuOpen(false)}>Categories</a>
-          <a href="#why-elai" onClick={() => setMenuOpen(false)}>Why Elai</a>
-          <a href="#sellers" onClick={() => setMenuOpen(false)}>Sell on Elai</a>
-          <a href="#contact" onClick={() => setMenuOpen(false)} className="mobile-menu__cta">Get Early Access →</a>
+          <a href="#categories" onClick={() => setMenuOpen(false)}>
+            Categories
+          </a>
+          <a href="#why-elai" onClick={() => setMenuOpen(false)}>
+            Why Elai
+          </a>
+          <a href="#sellers" onClick={() => setMenuOpen(false)}>
+            Sell on Elai
+          </a>
+          <a
+            href="#contact"
+            onClick={() => setMenuOpen(false)}
+            className="mobile-menu__cta"
+          >
+            Get Early Access →
+          </a>
         </nav>
       </header>
     </div>

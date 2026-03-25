@@ -10,6 +10,7 @@
   --border-color: rgba(46, 62, 32, 0.12);
   /* Landing page layout */
   --elai-shell-width: 1200px;
+  --font-heading: "Kingred";
 }
 
 @theme inline {

@@ -63,30 +63,27 @@ const Section8 = () => {
           <div className="section8-left">
             <p className="section8-subtitle">BE PART OF ELAI</p>
             <h2 className="section8-title">
-              Get early<br />access to Elai
+              Get early
+              <br />
+              access to Elai
             </h2>
             <p className="section8-description">
-              India&apos;s first accessories-only marketplace is launching soon. Sign up
-              now to be first in line — whether you&apos;re a shopper or a seller.
+              India&apos;s first accessories-only marketplace is launching soon.
+              Sign up now to be first in line — whether you&apos;re a shopper or
+              a seller.
             </p>
             <div className="section8-perks">
               <div className="perk">✓ Exclusive early-access offers</div>
               <div className="perk">✓ Priority access to new drops</div>
-              <div className="perk">✓ Free Elai Prime for first 1000 members</div>
+              <div className="perk">
+                ✓ Free Elai Prime for first 1000 members
+              </div>
             </div>
 
             {/* Floating accessory images */}
             <div className="s8-floaters">
-              <img
-                className="s8-floater s8-floater--a"
-                src="https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=200&q=80"
-                alt=""
-              />
-              <img
-                className="s8-floater s8-floater--b"
-                src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200&q=80"
-                alt=""
-              />
+              <img className="s8-floater s8-floater--a" src="77.jpeg" alt="" />
+              <img className="s8-floater s8-floater--b" src="99.jpeg" alt="" />
             </div>
           </div>
 
@@ -95,7 +92,9 @@ const Section8 = () => {
               <div className="form-success">
                 <div className="form-success__icon">✓</div>
                 <h3>You&apos;re on the list!</h3>
-                <p>We&apos;ll be in touch as soon as Elai launches. Stay tuned.</p>
+                <p>
+                  We&apos;ll be in touch as soon as Elai launches. Stay tuned.
+                </p>
               </div>
             ) : (
               <form className="contact-form" onSubmit={handleSubmit}>
@@ -203,7 +202,8 @@ const Section8 = () => {
                     />
                     <span className="checkbox-custom"></span>
                     <span className="checkbox-text">
-                      Keep me updated with Elai news, launches and exclusive offers.
+                      Keep me updated with Elai news, launches and exclusive
+                      offers.
                     </span>
                   </label>
                 </div>
@@ -221,4 +221,4 @@ const Section8 = () => {
 };
 
 export default Section8;
-  
+
