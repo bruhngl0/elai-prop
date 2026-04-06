@@ -51,14 +51,25 @@ const Section5 = () => {
         scrollTrigger: { trigger: headerRef.current, start: "top 85%" },
       });
 
-      gsap.from(cardsRef.current, {
-        y: 70,
-        opacity: 0,
-        duration: 0.75,
-        stagger: 0.1,
-        ease: "power3.out",
-        scrollTrigger: { trigger: ".criteria-grid", start: "top 85%" },
-      });
+      // Cards — use fromTo so cards stay in final layout position.
+      // Only animate opacity + scale, NO y movement, so all cards
+      // remain on the same baseline throughout the animation.
+      gsap.fromTo(
+        cardsRef.current,
+        {
+          opacity: 0,
+          scale: 0.93,
+        },
+        {
+          opacity: 1,
+          scale: 1,
+          duration: 0.65,
+          stagger: 0.07,
+          ease: "power3.out",
+          clearProps: "transform,opacity", // clean up after animation completes
+          scrollTrigger: { trigger: ".criteria-grid", start: "top 85%" },
+        }
+      );
     }, sectionRef);
     return () => ctx.revert();
   }, []);
@@ -104,8 +115,8 @@ const Section5 = () => {
               <div className="cta-content">
                 <p className="cta-text">Sound like you?</p>
                 <div className="cta-action">
-                  <a href="#contact" className="cta-link">
-                    Get early access →
+                  <a href="https://elai-vendor-portal-hyj1.vercel.app/" className="cta-link">
+                    Apply as Seller →
                   </a>
                 </div>
               </div>

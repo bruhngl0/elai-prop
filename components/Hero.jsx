@@ -48,10 +48,10 @@ const Hero = () => {
               </p>
               <div className="hero-ctas">
                 <a
-                  href="#contact"
+                  href="https://elai-vendor-portal-hyj1.vercel.app/"
                   className="hero-cta hero-cta--primary"
                 >
-                  Get Early Access
+                  Apply as Seller
                 </a>
                 <a
                   href="#categories"

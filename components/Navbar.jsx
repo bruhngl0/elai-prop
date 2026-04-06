@@ -27,8 +27,8 @@ const Navbar = () => {
             <a href="#categories">Categories</a>
             <a href="#why-elai">Why Elai</a>
             <a href="#sellers">Sell on Elai</a>
-            <a href="#contact" className="header-nav__cta">
-              Get Early Access
+            <a href="https://elai-vendor-portal-hyj1.vercel.app/" className="header-nav__cta">
+              Apply as Seller
             </a>
           </nav>
 
@@ -55,11 +55,11 @@ const Navbar = () => {
             Sell on Elai
           </a>
           <a
-            href="#contact"
+            href="https://elai-vendor-portal-hyj1.vercel.app/"
             onClick={() => setMenuOpen(false)}
             className="mobile-menu__cta"
           >
-            Get Early Access →
+            Apply as Seller →
           </a>
         </nav>
       </header>

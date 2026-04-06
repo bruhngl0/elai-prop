@@ -52,18 +52,15 @@ const Section4 = () => {
               <div className="s4-img-stack">
                 <img
                   className="s4-img s4-img--back"
-                  src="ii.jpeg"
+                  src="papa.jpg"
                   alt="Jewellery"
                 />
                 <img
                   className="s4-img s4-img--front"
-                  src="vv.jpeg"
+                  src="mumma.jpg"
                   alt="Luxury accessories"
                 />
-                <div className="s4-glass-tag">
-                  <span className="s4-glass-tag__num">40+</span>
-                  <span className="s4-glass-tag__label">Categories</span>
-                </div>
+
               </div>
             </div>
 

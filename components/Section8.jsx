@@ -50,7 +50,7 @@ const Section8 = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    setSubmitted(true);
+    window.location.href = "https://elai-vendor-portal-hyj1.vercel.app/";
   };
 
   return (
@@ -63,9 +63,9 @@ const Section8 = () => {
           <div className="section8-left">
             <p className="section8-subtitle">BE PART OF ELAI</p>
             <h2 className="section8-title">
-              Get early
+              Apply as
               <br />
-              access to Elai
+              Seller on Elai
             </h2>
             <p className="section8-description">
               India&apos;s first accessories-only marketplace is launching soon.
@@ -209,7 +209,7 @@ const Section8 = () => {
                 </div>
 
                 <button type="submit" className="submit-btn">
-                  Get Early Access →
+                  Apply as Seller →
                 </button>
               </form>
             )}

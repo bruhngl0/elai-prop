@@ -148,8 +148,8 @@ const Section2 = () => {
                 India&apos;s widest accessories selection onto one elegant,
                 easy-to-browse platform.
               </p>
-              <a href="#contact" className="categories-cta">
-                Get early access →
+              <a href="https://elai-vendor-portal-hyj1.vercel.app/" className="categories-cta">
+                Apply as Seller →
               </a>
             </div>
           </div>

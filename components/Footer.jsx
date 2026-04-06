@@ -5,21 +5,16 @@ import "../styles/footer.scss";
 
 const Footer = () => {
   const categories = [
-    "Fashion Jewellery",
-    "Men's Accessories",
-    "Ethnic Pieces",
-    "Tech Accessories",
-    "Luxury Goods",
-    "Bags & Travel",
+    { name: "Fashion Jewellery", url: "#categories" },
+    { name: "Men's Accessories", url: "#categories" },
+    { name: "Ethnic Pieces", url: "#categories" },
+    { name: "Tech Accessories", url: "#categories" },
+    { name: "Luxury Goods", url: "#categories" },
+    { name: "Bags & Travel", url: "#categories" },
   ];
 
-  const company = ["About Elai", "Careers", "Press", "Blog"];
-  const support = [
-    "Contact Us",
-    "Seller Support",
-    "Privacy Policy",
-    "Terms of Service",
-  ];
+  const company = [{ name: "About Elai", url: "#why-elai" }];
+  const support = [{ name: "Contact Us", url: "#contact" }];
 
   const socialLinks = [
     { name: "Instagram", icon: "instagram", url: "#" },
@@ -102,7 +97,7 @@ const Footer = () => {
               <ul className="column-links">
                 {categories.map((cat, index) => (
                   <li key={index}>
-                    <a href="#">{cat}</a>
+                    <a href={cat.url}>{cat.name}</a>
                   </li>
                 ))}
               </ul>
@@ -113,7 +108,7 @@ const Footer = () => {
               <ul className="column-links">
                 {company.map((item, index) => (
                   <li key={index}>
-                    <a href="#">{item}</a>
+                    <a href={item.url}>{item.name}</a>
                   </li>
                 ))}
               </ul>
@@ -124,7 +119,7 @@ const Footer = () => {
               <ul className="column-links">
                 {support.map((item, index) => (
                   <li key={index}>
-                    <a href="#">{item}</a>
+                    <a href={item.url}>{item.name}</a>
                   </li>
                 ))}
               </ul>
